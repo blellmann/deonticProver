@@ -10,4 +10,6 @@ in Mimamsa: A sequent-based approach" (published in the proceedings of
 DEON 2018), see also
 http://logic.at/staff/lellmann/static/publications/2018/DEON18final.pdf
 
+For the web interface, see http://subsell.logic.at/bprover/deonticProver/.
+
 For details on usage, see the file readme.txt.
