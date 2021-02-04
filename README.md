@@ -14,3 +14,4 @@ For the web interface, see http://subsell.logic.at/bprover/deonticProver/.
 
 For details on usage, see the file readme.txt.
 
+.
